@@ -4,7 +4,7 @@
   "upstream": ["chimera-system"],
   "peers": ["chimera-music", "chimera-relationships"],
   "downstream": [],
-  "doc_count": 23,
+  "doc_count": 25,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "SKILL.md", "references": ["system/patterns/the-lure.md", "system/applied/conversation-mastery.md", "system/axioms/the-between.md", "system/connections/original-lie-to-flood.md"]},
@@ -29,7 +29,9 @@
     {"path": "techniques/callback.md", "references": ["stories/structures/five-minute-bit.md", "stories/structures/full-set.md"]},
     {"path": "techniques/misdirection.md", "references": ["system/patterns/the-lure.md", "system/patterns/observer-exclusion.md"]},
     {"path": "techniques/the-tag.md", "references": ["stories/structures/three-beat.md", "system/axioms/the-breath-cycle.md"]},
-    {"path": "studies/conan-uma-live-improv.md", "references": ["system/patterns/the-lure.md", "system/patterns/spawn-flow.md", "system/patterns/speed-as-variable.md", "stories/techniques/inversion.md", "stories/structures/smallest-unit.md", "system/applied/system-mastery.md"]}
+    {"path": "studies/conan-uma-live-improv.md", "references": ["system/patterns/the-lure.md", "system/patterns/spawn-flow.md", "system/patterns/speed-as-variable.md", "stories/techniques/inversion.md", "stories/structures/smallest-unit.md", "system/applied/system-mastery.md"]},
+    {"path": "bits/software-update.md", "references": ["system/connections/extraction-at-civilization-scale.md", "system/connections/original-lie-to-flood.md", "stories/techniques/inversion.md", "stories/techniques/the-pause.md"]},
+    {"path": "bits/the-river-not-the-fish.md", "references": []}
   ],
-  "last_updated": "2026-02-11"
+  "last_updated": "2026-02-12"
 }
