@@ -13,6 +13,7 @@ stories/
 ├── SKILL.md              # The bare bones — all structures, all techniques, all practice
 ├── characters/           # The cast — every character is you
 ├── bits/                 # Comedy bits — seeds to scenes
+├── story-bibles/         # Long-form worlds designed to carry the philosophy through character
 ├── structures/           # Comedy architecture — atom to full set
 ├── techniques/           # Comedy tools — inversion, pause, callback, etc.
 └── raw/                  # Dump ideas here — capture first, structure later
@@ -42,6 +43,10 @@ People open their mouths to laugh. Truth slides in while their guard is down.
 | The Kid | Thinks he's not enough |
 
 Every character in a story is the writer. These are all you. When they talk to each other, that's the show.
+
+## Long-form worlds
+
+- **[CHIMERA: Between the Waters](story-bibles/chimera-between-the-waters.md)** — two incomplete civilizations, a mirror cosmos, and a future created through connection without conquest.
 
 ---
 

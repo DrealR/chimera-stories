@@ -4,7 +4,7 @@
   "upstream": ["chimera-system"],
   "peers": ["chimera-music", "chimera-relationships"],
   "downstream": [],
-  "doc_count": 25,
+  "doc_count": 34,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "SKILL.md", "references": ["system/patterns/the-lure.md", "system/applied/conversation-mastery.md", "system/axioms/the-between.md", "system/connections/original-lie-to-flood.md"]},
@@ -31,7 +31,15 @@
     {"path": "techniques/the-tag.md", "references": ["stories/structures/three-beat.md", "system/axioms/the-breath-cycle.md"]},
     {"path": "studies/conan-uma-live-improv.md", "references": ["system/patterns/the-lure.md", "system/patterns/spawn-flow.md", "system/patterns/speed-as-variable.md", "stories/techniques/inversion.md", "stories/structures/smallest-unit.md", "system/applied/system-mastery.md"]},
     {"path": "bits/software-update.md", "references": ["system/connections/extraction-at-civilization-scale.md", "system/connections/original-lie-to-flood.md", "stories/techniques/inversion.md", "stories/techniques/the-pause.md"]},
-    {"path": "bits/the-river-not-the-fish.md", "references": []}
+    {"path": "bits/the-river-not-the-fish.md", "references": []},
+    {"path": "studies/comedy-reps.md", "references": []},
+    {"path": "studies/four-humor-styles.md", "references": []},
+    {"path": "techniques/capture-attention.md", "references": []},
+    {"path": "techniques/commit.md", "references": []},
+    {"path": "techniques/reframing.md", "references": []},
+    {"path": "techniques/specificity.md", "references": []},
+    {"path": "techniques/the-fake-out.md", "references": []},
+    {"path": "story-bibles/chimera-between-the-waters.md", "references": ["framework/docs/mirrors-as-relational-perception.md", "framework/docs/personal-primes-as-invariants.md", "framework/docs/perceptual-windows-and-constructed-bodies.md", "ai/core/compressed-civilizational-time-and-temporal-asymmetry.md"]}
   ],
-  "last_updated": "2026-02-12"
+  "last_updated": "2026-08-04"
 }
