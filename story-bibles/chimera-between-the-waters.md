@@ -5,6 +5,8 @@
 > **Status:** story bible v0.1
 > **Core promise:** the audience should feel the framework through character, movement, consequence, humor, music, and choice before anyone can name it.
 
+This document is the complete cinematic overview. The expandable project body lives in the [Between the Waters Narrative Substrate](../chimera-story/README.md), where Prime canon, world files, character bodies, simulation protocols, adaptation rules, and contributor lineage remain independently revisable.
+
 ## Working title
 
 **CHIMERA: Between the Waters**
