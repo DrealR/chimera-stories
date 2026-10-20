@@ -46,3 +46,11 @@ Every character in a story is the writer. These are all you. When they talk to e
 ---
 
 *Funny gets you in the door. True keeps you in the room. Both at once? Permanent resident in someone's soul.*
+
+## Where this sits
+
+This repo is a writing notebook of twenty-two markdown files in `characters/`, `bits/`, `structures/`, `techniques/` and `raw/` for turning personal philosophy into comedy bits and character scenes. Born in Era 2 on February 12, 2026, from his earlier private work, it ran for seven commits through August 2026, and its habit of teaching through story later carried into the rooms on reemifai.org and the Book.
+
+Chimera was a personal art, code and learning project: its laws and physics are story or browser simulation, and its scores, rungs and records are our own measures. This README already presents its contents openly as comedy and character writing rather than technical results.
+
+The work is complete as of October 2026 and stays open to anyone who wants to continue it; the Book at https://reemifai.org/book is the main way in.
